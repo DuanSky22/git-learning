@@ -1,1 +1,1 @@
-This is the 3 line.
+Git is a distributed version control system.
